@@ -15,6 +15,11 @@
     <!-- Favicon-->
     <link rel="icon" type="image" href="./images/website-favicon.png" sizes="192x192" />
 
+    <!-- Font Awesome CDN (for version 5.x) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- Boxicons CDN -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <!--stylesheet link-->
     <link rel="stylesheet" type="text/css" href="style.css">
 
@@ -52,7 +57,7 @@
     <!--navigation bar-->
     <div class="container-fluid menu">
         <nav class="navbar navbar-expand-lg my-navbar">
-            <a class="navbar-brand " href="#"><img src="./images/v4u.jpg" height="100" width='150' alt="" loading="lazy"></a>
+            <a class="navbar-brand " href="./index.php"><img src="./images/website-favicon.png" height="150" width='150' alt="" loading="lazy"></a>
             <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -177,34 +182,32 @@
 </body>
 
 
-<!--footer-->
+<!-------------------------------- footer ------------------------------------------>
 <footer id="footer">
     <div class="footer-top pb-4">
         <div class="container">
             <div class="row">
 
                 <div class="col-lg-4 col-md-6 footer-contact" style="height:200px">
-                    <img src="./images/logo.jpg" height="85%">
+                    <img src="./images/website-favicon.png" height="85%">
                 </div>
                 <div class="col-lg-4 col-md-6 footer-contact" style="height: 200px">
-                    <h3 style="color: #009970"><b>We For You</b></h3>
-                    <p><a href="https://goo.gl/maps/KQ1NrWw3Bs63noTP9" target="_blank" style="color: #777777;">
-                            Woodland Park, Block C<br>
-                            Siddharth Nagar, Mulund West<br>
-                            Mumbai, 400080</a><br><br>
+                    <h3 style="color: #009970"><b>Bring Bright Smile</b></h3>
+                    <p><a href="https://maps.app.goo.gl/fZkQtg7iQaFNppAcA" target="_blank" style="color: #777777;">
+                            Kankarbagh<br>
+                            Patna, 800001</a><br><br>
 
-                        <strong>Phone:</strong> <a href="tel:+919082689552" style="color: #777777;">+919082689552</a><br>
+                        <strong>Phone:</strong> <a href="tel:+918969862809" style="color: #777777;">+918969862809</a><br>
 
-                        <strong>Email:</strong> <a href="mailto:neha71549@gmail.com" style="color: #777777;">weforyou@gmail.com</a><br>
+                        <strong>Email:</strong> <a href="mailto:info@bigsmile.in" style="color: #777777;">info@bigsmile.in</a><br>
                     </p>
                 </div>
                 <div class="col-lg-4 pt-4 mt-2">
                     <div class="social-links text-center text-md-right pt-3 pt-md-0">
-                        <a href="https://twitter.com/nehaa_2602_?t=ODUJLtg2wcFehM0gqk-E1w&s=08" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
-                        <a href="https://www.facebook.com/Neha%20Gupta/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
-                        <a href="https://instagram.com/weforyou26?igshid=ZDdkNTZiNTM=" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
-                        <a href="https://www.youtube.com/channel/UCJs3CwS0-UIsYlDkw8TsO0g" class="google-plus" target="_blank"><i class="bx bxl-youtube"></i></a>
-                        <a href="https://www.linkedin.com/in/mrrahul-rajpurohit-a71123222" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
+                        <a href="https://www.facebook.com/aryanschoolhjp/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+                        <a href="https://www.instagram.com/bringbrightsmilefoundation/" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+                        <!-- <a href="https://www.youtube.com/channel/UCJs3CwS0-UIsYlDkw8TsO0g" class="google-plus" target="_blank"><i class="bx bxl-youtube"></i></a>
+              <a href="https://www.linkedin.com/in/mrrahul-rajpurohit-a71123222v" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a> -->
                     </div>
                 </div>
             </div>

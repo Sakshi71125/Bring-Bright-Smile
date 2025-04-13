@@ -11,6 +11,11 @@
   <title>HOME</title>
   <!-- Favicon-->
   <link rel="icon" type="image" href="images/website-favicon.png" sizes="192x192" />
+  <!-- Font Awesome CDN (for version 5.x) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+  <!-- Boxicons CDN -->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <!-- custom add-ons for nav bar and footer -->
@@ -25,7 +30,7 @@
   <!------navigation------->
   <div class="container-fluid menu">
     <nav class="navbar navbar-expand-lg my-navbar">
-      <a class="navbar-brand " href="#"><img src="./images/v4u.jpg" height="100" width='150' alt="" loading="lazy"></a>
+      <a class="navbar-brand " href="./index.php"><img src="./images/website-favicon.png" height="150" width='150' alt="" loading="lazy"></a>
       <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -66,7 +71,7 @@
   <div id="header">
     <div class="container text-center">
       <div class="header-box">
-        <h1>We for You</h1>
+        <h1>Bring Bright Smile</h1>
         <h6>“Helping hand for those in need.”</h6>
       </div>
     </div>
@@ -77,7 +82,7 @@
       <div class="col-xs-20 col-sm-12 col-md-20 col-lg-20 col-xl-100">
         <h1 class="text-center" data-aos="zoom-in-up" data-aos-easing="ease-in-sine" data-aos-delay="100">WHO WE ARE AND WHAT DO WE DO?</h1>
         <div class="border1 "></div>
-        <p class="text-center px-md-5">We For You Foundation aims to build a better living ecosystem to the underprivileged childeren in Mumbai by providing them with the right education and care at the right time in life.</p>
+        <p class="text-center px-md-5">Bring Bright Smile Foundation aims to build a better living ecosystem to the underprivileged childeren in Patna by providing them with the right education and care at the right time in life.</p>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2 text-center">
         <a href="./aboutus.php"><button type="button" class="btn btn-lg border border-secondary read-more">Read More</button></a>
@@ -92,7 +97,7 @@
         <div class="border1"></div>
       </div>
       <div class="col-12">
-        <p>We For You is a joint programme with the mission to empower and support underprivileged chidren by ensuring that every child has at least 1 adult assigned to them.</p>
+        <p>Bring Bright Smile is a joint programme with the mission to empower and support underprivileged chidren by ensuring that every child has at least 1 adult assigned to them.</p>
       </div>
     </div>
   </div>
@@ -123,7 +128,7 @@
               <div class="icon-box">
                 <div class="icon"><i class="fa fa-box fa-3x"></i></div>
                 <h4><a href="donateform.php">Project Aahar</a></h4>
-                <p>Sponsor a food packet @50 that would comprise of vegetable and three chappatis to save a starving soul in these turbulent times of the corona crisis.</p>
+                <p>Destribution of blankets and food materials to needy and poor in the region during the tough times of harsh winters.</p>
               </div>
             </div>
 
@@ -142,7 +147,7 @@
       <div class="row portfolio-container">
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap" data-aos="fade-right" data-aos-easing="ease-in-sine" data-aos-delay="100">
-            <img src="./images/home_images/edu-1.jpg" class="img-fluid">
+            <img src="./images/edu-1.png" class="img-fluid">
             <div class="portfolio-info">
               <h4>WE LOVE</h4>
             </div>
@@ -151,7 +156,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap" data-aos="zoom-in" data-aos-easing="ease-in-sine" data-aos-delay="100">
-            <img src="./images/home_images/edu-2.jpg" class="img-fluid">
+            <img src="./images/edu-2.png" class="img-fluid">
             <div class="portfolio-info">
               <h4>WE CARE</h4>
             </div>
@@ -160,7 +165,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-delay="100">
-            <img src="./images/home_images/edu-3.jpg" class="img-fluid">
+            <img src="./images/edu-3.png" class="img-fluid">
             <div class="portfolio-info">
               <h4>WE TEACH</h4>
             </div>
@@ -189,7 +194,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap" data-aos="zoom-in" data-aos-easing="ease-in-sine" data-aos-delay="100">
-            <img src="./images/home_images/gal-2.jpg" class="img-fluid">
+            <img src="./images/home_images/gal-2.png" class="img-fluid">
             <div class="portfolio-info">
               <h4>Great Time</h4>
             </div>
@@ -216,7 +221,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap" data-aos="zoom-in" data-aos-easing="ease-in-sine" data-aos-delay="100">
-            <img src="./images/home_images/gal-5.jpg" class="img-fluid">
+            <img src="./images/home_images/gal-5.png" class="img-fluid">
             <div class="portfolio-info">
               <h4>Great Time</h4>
             </div>
@@ -225,7 +230,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-delay="100">
-            <img src="./images/home_images/gal-6.jpg" class="img-fluid">
+            <img src="./images/home_images/gal-6.png" class="img-fluid">
             <div class="portfolio-info">
               <h4>Study Time</h4>
             </div>
@@ -234,7 +239,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap" data-aos="fade-right" data-aos-easing="ease-in-sine" data-aos-delay="100">
-            <img src="./images/home_images/gal-7.jpg" class="img-fluid">
+            <img src="./images/home_images/gal-7.png" class="img-fluid">
             <div class="portfolio-info">
               <h4>Fun Time</h4>
             </div>
@@ -243,7 +248,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap" data-aos="zoom-in" data-aos-easing="ease-in-sine" data-aos-delay="100">
-            <img src="./images/home_images/gal-8.jpg" class="img-fluid">
+            <img src="./images/home_images/gal-8.png" class="img-fluid">
             <div class="portfolio-info">
               <h4>Great Time</h4>
             </div>
@@ -270,27 +275,25 @@
         <div class="row">
 
           <div class="col-lg-4 col-md-6 footer-contact" style="height:200px">
-            <img src="./images/logo.jpg" height="85%">
+            <img src="./images/website-favicon.png" height="85%">
           </div>
           <div class="col-lg-4 col-md-6 footer-contact" style="height: 200px">
-            <h3 style="color: #009970"><b>We For You</b></h3>
-            <p><a href="https://goo.gl/maps/KQ1NrWw3Bs63noTP9" target="_blank" style="color: #777777;">
-                Woodland Park, Block C<br>
-                Siddharth Nagar, Mulund West<br>
-                Mumbai, 400080</a><br><br>
+            <h3 style="color: #009970"><b>Bring Bright Smile</b></h3>
+            <p><a href="https://maps.app.goo.gl/fZkQtg7iQaFNppAcA" target="_blank" style="color: #777777;">
+                Kankarbagh<br>
+                Patna, 800001</a><br><br>
 
-              <strong>Phone:</strong> <a href="tel:+919082689552" style="color: #777777;">+919082689552</a><br>
+              <strong>Phone:</strong> <a href="tel:+918969862809" style="color: #777777;">+918969862809</a><br>
 
-              <strong>Email:</strong> <a href="mailto:neha71549@gmail.com" style="color: #777777;">weforyou@gmail.com</a><br>
+              <strong>Email:</strong> <a href="mailto:info@bigsmile.in" style="color: #777777;">info@bigsmile.in</a><br>
             </p>
           </div>
           <div class="col-lg-4 pt-4 mt-2">
             <div class="social-links text-center text-md-right pt-3 pt-md-0">
-              <a href="https://twitter.com/nehaa_2602_?t=ODUJLtg2wcFehM0gqk-E1w&s=08" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
-              <a href="https://www.facebook.com/Neha%20Gupta/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
-              <a href="https://instagram.com/weforyou26?igshid=ZDdkNTZiNTM=" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
-              <a href="https://www.youtube.com/channel/UCJs3CwS0-UIsYlDkw8TsO0g" class="google-plus" target="_blank"><i class="bx bxl-youtube"></i></a>
-              <a href="https://www.linkedin.com/in/mrrahul-rajpurohit-a71123222v" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://www.facebook.com/aryanschoolhjp/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/bringbrightsmilefoundation/" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+              <!-- <a href="https://www.youtube.com/channel/UCJs3CwS0-UIsYlDkw8TsO0g" class="google-plus" target="_blank"><i class="bx bxl-youtube"></i></a>
+              <a href="https://www.linkedin.com/in/mrrahul-rajpurohit-a71123222v" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a> -->
             </div>
           </div>
         </div>
