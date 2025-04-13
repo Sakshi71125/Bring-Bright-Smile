@@ -8,7 +8,7 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-  <title>WE FOR YOU - VOLUNTEER</title>
+  <title>Bring Bright Smile - VOLUNTEER</title>
   <!-- Favicon-->
   <link rel="icon" type="image" href="./images/website-favicon.png" sizes="192x192" />
   <!-- Font Awesome CDN (for version 5.x) -->
@@ -90,15 +90,14 @@
           </div>
         </div>
         <div class="col-lg-8 justify-content-center" data-aos="zoom-in" data-aos-delay="100">
-          <p>Our NGO provides opportunities for young minds to get involved in social work, explore the cause of social
-            backwardness and learn skills in the field of HR, PR, content writing, social media marketing and teaching.
-            It is for a minimum period of six weeks, and if you wish you can continue working for more, and incentive
-            will be provided based on that. It’s a unique opportunity provided to young people to do social service as
-            well as learn new skills. This is an NGO where young minds are involved and everyone is given equal
-            opportunity to put forth their ideas and are appreciated for that.</p>
-          <p>We offer you a wide variety of work that skilled or unskilled interns can do.</p>
-          <p>This is a Recognised NGO and provides work experience which involves acquiring skills described before and
-            some unseen skills which get embedded in you as you work with the NGO.</p>
+          <p>Our NGO, Bring Bright Smile Foundation, based in Patna, provides opportunities for young minds to get involved in meaningful social work, understand the root causes of social backwardness, and develop skills in areas such as Human Resources (HR), Public Relations (PR), Content Writing, Social Media Marketing, and Teaching.The engagement is for a minimum period of six weeks, and if you wish, you can continue working beyond that. Incentives are provided based on your commitment and contributions. It’s a unique opportunity for young individuals to participate in social service while gaining hands-on experience and learning professional skills that are valuable in today’s world.
+
+          <p>This is an NGO where youth are at the core of every initiative, and everyone is given an equal chance to share their ideas, contribute to projects, and are genuinely appreciated for their efforts.</p>
+
+          We offer a wide variety of roles and responsibilities that both skilled and unskilled interns can take up — including managing events, creating digital content, community outreach, teaching underprivileged children, coordinating with volunteers, and promoting causes through various platforms.
+
+          As a recognized NGO operating from Patna, we provide a dynamic work experience that includes developing the skills mentioned above and discovering unseen abilities that naturally emerge as you grow with us on the field.</p>
+          
         </div>
       </div>
     </div>
@@ -119,62 +118,48 @@
             <div class="col-md-4 d-flex align-items-stretch">
               <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
                 <div class="icon"><i class="fas fa-stethoscope fa-lg"></i></div>
-                <h4><a href="">Doctor</a></h4>
-                <p>Develop and update our website on a regular basis, with coordination. Coordinating with content
-                  writers and graphic designers. Making things more appealing for the visitors of the site by making it
-                  easily accessible and interesting.</p>
+                <h4><a href="">Educator</a></h4>
+                <p>Support the education of underprivileged children by teaching basic subjects, conducting activity-based learning, and helping students build confidence. This role allows you to make a direct impact in shaping young minds..</p>
               </div>
             </div>
 
             <div class="col-md-4 d-flex align-items-stretch mt-4 mt-lg-0">
               <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
                 <div class="icon"><i class="fas fa-user fa-lg"></i></div>
-                <h4><a href="">Counsellor</a></h4>
-                <p>Design graphics such as carousel, images and infographics for the website and for event marketing.
-                  Designing graphics which can be published in social media sites.</p>
+                <h4><a href="">Social Media & Content</a></h4>
+                <p>Create and manage posts, reels, and stories for our social media handles. Share updates, design captions, and highlight success stories to spread awareness and increase public engagement.</p>
               </div>
             </div>
 
             <div class="col-md-4 d-flex align-items-stretch mt-4-lg-0">
               <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
                 <div class="icon"><i class="fas fa-lightbulb fa-lg "></i></div>
-                <h4><a href="">Creative Department</a></h4>
-                <p>This is the department which helps making things more appealing to the audience by reading the
-                  thought process of the viewers and the reaction they receive. This department requires creative and
-                  predictive thinking. This improvises the way people work and see things around. Making something out
-                  of nothing with a worth.</p>
+                <h4><a href="">Community Outreach</a></h4>
+                <p>Connect with local communities in Patna to identify needs, conduct donation drives, and coordinate social campaigns. This role involves on-ground engagement and helping organize impactful events.</p>
               </div>
             </div>
 
             <div class="col-md-4 d-flex align-items-stretch mt-4">
               <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
                 <div class="icon"><i class="fas fa-book fa-lg"></i></div>
-                <h4><a href="">Teaching</a></h4>
-                <p>Our NGO lends opportunity for people who want to teach children and give them experience that is
-                  required to get them into the crowd. It is a great opportunity as people teach children who cannot
-                  afford to study in schools with high fees. With this we are helping the next generation of youth to be
-                  more experienced than the current generation in experience and knowledge wise.</p>
+                <h4><a href="">Graphic Designing</a></h4>
+                <p>Design posters, carousels, infographics, and other visual content for campaigns and social media. Use your creativity to make our work visually appealing and easily understandable to the public.</p>
               </div>
             </div>
 
             <div class="col-md-4 d-flex align-items-stretch mt-4">
               <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
                 <div class="icon"><i class="fas fa-handshake fa-lg"></i></div>
-                <h4><a href="">Public Relation</a></h4>
-                <p>Managing the relation between the NGO and the public. Making the relationship as thin transparent as
-                  possible by good communication. and using Convincing public people to donate and sponsor for the NGO.
-                </p>
+                <h4><a href="">Creative Department</a></h4>
+                <p>Contribute innovative ideas and strategies for events, campaigns, and digital presence. This role requires out-of-the-box thinking to enhance the organization’s impact and audience connection.</p>
               </div>
             </div>
 
             <div class="col-md-4 d-flex align-items-stretch mt-4">
               <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
                 <div class="icon"><i class="fas fa-camera fa-lg"></i></div>
-                <h4><a href="">Photography</a></h4>
-                <p>Photography is one of the creative department which captures memories and frames them to everyone’s
-                  life the NGO has touched. This department requires photography skills and a different unique way of
-                  thinking and imagining. This helps increase your thinking capacity and helps you explore the new realm
-                  of ideas that can make the world around you beautiful.</p>
+                <h4><a href="">Content Writing</a></h4>
+                <p>Write blogs, articles, and scripts that communicate the mission, values, and activities of the foundation. Use words to inspire, inform, and influence people to join or support the cause.</p>
               </div>
             </div>
           </div>
