@@ -71,6 +71,7 @@
   <div id="header">
     <div class="container text-center">
       <div class="header-box">
+        <img src="./images/gal-2.png" width="100%" height="100%" alt="header image" class="img-fluid">
         <h1>Bring Bright Smile</h1>
         <h6>“Helping hand for those in need.”</h6>
       </div>
