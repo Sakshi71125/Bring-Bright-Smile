@@ -16,7 +16,7 @@
 
   <!-- Boxicons CDN -->
   <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-
+  <script src="https://kit.fontawesome.com/d293cb858f.js" crossorigin="anonymous"></script>
   <!-- custom add-ons -->
   <link rel="stylesheet" type="text/css" href="add.css">
   <link rel="stylesheet" type="text/css" href="style.css">
@@ -117,7 +117,7 @@
           <div class="row">
             <div class="col-md-4 d-flex align-items-stretch">
               <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
-                <div class="icon"><i class="fas fa-stethoscope fa-lg"></i></div>
+                <div class="icon"><i class="fa-solid fa-user-graduate"></i></div>
                 <h4><a href="">Educator</a></h4>
                 <p>Support the education of underprivileged children by teaching basic subjects, conducting activity-based learning, and helping students build confidence. This role allows you to make a direct impact in shaping young minds..</p>
               </div>
@@ -133,7 +133,7 @@
 
             <div class="col-md-4 d-flex align-items-stretch mt-4-lg-0">
               <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-                <div class="icon"><i class="fas fa-lightbulb fa-lg "></i></div>
+                <div class="icon"><i class="fa-solid fa-walkie-talkie"></i></div>
                 <h4><a href="">Community Outreach</a></h4>
                 <p>Connect with local communities in Patna to identify needs, conduct donation drives, and coordinate social campaigns. This role involves on-ground engagement and helping organize impactful events.</p>
               </div>
@@ -141,7 +141,7 @@
 
             <div class="col-md-4 d-flex align-items-stretch mt-4">
               <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-                <div class="icon"><i class="fas fa-book fa-lg"></i></div>
+                <div class="icon"><i class="fa-solid fa-laptop-file"></i></div>
                 <h4><a href="">Graphic Designing</a></h4>
                 <p>Design posters, carousels, infographics, and other visual content for campaigns and social media. Use your creativity to make our work visually appealing and easily understandable to the public.</p>
               </div>

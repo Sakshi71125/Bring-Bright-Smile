@@ -39,7 +39,7 @@
     }
 
     body {
-      backgroud: white;
+      background-color: white;
     }
 
     @media only screen and (max-width: 992px) {
